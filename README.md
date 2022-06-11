@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.x-orange.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
-![Twitter Follow](https://img.shields.io/twitter/follow/jithinharidaas.svg?style=social&label=Follow]
+![Twitter Follow](https://img.shields.io/twitter/follow/jithinharidaas.svg?style=social&label=Follow])
 
 ## Dataset
 
