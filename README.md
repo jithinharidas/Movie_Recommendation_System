@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.x-orange.svg)
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
-![Twitter Follow](https://img.shields.io/twitter/follow/jithinharidaas.svg?style=social&label=Follow)(https://twitter.com/jithinharidaas))
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/jithinharidaas.svg?style=social&label=Follow%20%40jithinharidaas)](https://twitter.com/jithinharidaas)
+
 
 ## Dataset
 
